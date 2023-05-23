@@ -32,8 +32,8 @@ Step 8: Save and run the application.
  ```
 /*
 Program to print the contact details by creating own content providers in Android Studio
-Developed by: 
-RegisterNumber:  
+Developed by:ch.nagajyothi 
+RegisterNumber:212221230015  
 */
 ```
 
@@ -119,7 +119,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## activity_main.xml:
 
-
+```
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -136,7 +136,7 @@ public class MainActivity extends AppCompatActivity {
         android:onClick="btnGetContacts"/>
 
 </RelativeLayout>
-
+```
 ## AndroidManifest.xml
 
 <?xml version="1.0" encoding="utf-8"?>
