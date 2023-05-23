@@ -39,7 +39,7 @@ RegisterNumber:212221230015
 
 ## MainActivity.java:
 
-
+```
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -115,7 +115,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-
+```
 
 ## activity_main.xml:
 
